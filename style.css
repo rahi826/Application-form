@@ -1,0 +1,137 @@
+body{
+  background:#ccc;
+}
+.main{
+  max-width: 850px;
+  height: 1100px;
+  background: white;
+  margin: 100px auto;
+  position: relative;
+  border-radius: 20px;
+  display: flex;
+}
+.jb{
+position: absolute;
+  margin: 40px 0px 0px 45px;
+  display: inline;
+  font-size: 40px;
+}
+.web{
+  margin: 50px 0px 0px 375px;
+  position: absolute;
+  font-weight: bold;
+  font-size: 30px;
+}
+.c1{
+  margin: 130px 0px 0px 30px;
+  width:350px;
+  height: 40px;
+  display: inline;
+}
+.c2{
+  margin: 100px 0px 0px 30px;
+  position: absolute;
+}
+.c4{
+  margin: 130px 0px 0px 30px;
+  width:350px;
+  height: 40px;
+  display: inline;
+}
+.c3{
+  margin: 100px 0px 0px 30px;
+  position: absolute;
+  display: inline;
+}
+.c5{
+  margin: 10px 0px 0px 30px;
+  width:350px;
+  height: 40px;
+  display: inline;
+}
+.c9{
+  margin:187px 0px 0px 30px ;
+  position: absolute;
+  display: inline;
+}
+.c8{
+  margin: 40px 0px 0px 30px;
+  width:350px;
+  height: 40px;
+  display: inline;
+}
+.c7{
+  margin: 10px 0px 0px 30px;
+  position: absolute;
+  display: inline;
+}
+.main2{
+  font-weight: bold;
+  border-radius: 20px;
+}
+.c10{
+  margin: 22px 0px 0px 30px;
+  position: absolute;
+  display: inline;
+}
+.c11{
+  margin: 52px 0px 0px 30px;
+  width:80%;
+  height: 100px;
+  display: inline;
+}
+.c12{
+  margin: 445px 0px 0px 30px;
+  position: absolute;
+  display: inline;
+}
+.c13{
+  margin: 52px 0px 0px 30px;
+  width:350px;
+  height: 40px;
+  display: inline;
+}
+.c14{
+    margin:22px 0px 0px 30px ;
+  position: absolute;
+  display: inline;
+}
+.c15{
+  margin: 40px 0px 0px 30px;
+  width:350px;
+  height: 40px;
+  display: inline;
+}
+.c16{
+    margin:529px 0px 0px 30px ;
+  position: absolute;
+  display: inline;
+}
+.c17{
+  margin: 40px 0px 0px 30px;
+  width:350px;
+  height: 40px;
+  display: inline;
+}
+.c18{
+    margin:22px 0px 0px 30px ;
+  position: absolute;
+  display: inline;
+}
+.c19{
+  margin: 40px 0px 0px 30px;
+  width:350px;
+  height: 40px;
+  display: inline;
+}
+.submit{
+  padding: 20px 35px;
+  margin: 40px 0px 0px 630px;
+  color: white;
+  background: orangered;
+  border:none;
+  border-radius: 0px;
+}
+.submit:hover{
+  border-radius: 30px;
+}
